@@ -1,0 +1,1 @@
+I was'nt able to understand how to unmerge two branches without showing it in history.
