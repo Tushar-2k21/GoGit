@@ -1,1 +1,2 @@
 I was'nt able to understand how to unmerge two branches without showing it in history.
+Github is very collaborative in solving problems and connecting techies all over the world and work on a single project.
